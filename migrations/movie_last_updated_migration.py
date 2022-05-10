@@ -14,7 +14,7 @@ us. We just need to make sure the correct operations are sent to MongoDB!
 """
 
 # ensure you update your host information below!
-host = "mongodb+srv://m001-student:joel123@sandbox.81a6v.mongodb.net"
+host = "mongodb+srv://<username>:<password>@<database>"
 
 # don't update this information
 MFLIX_DB_NAME = "sample_mflix"
