@@ -1,0 +1,3 @@
+{
+  "tests/test_create_update_comments.py::test_delete_is_given": true
+}
